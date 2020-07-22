@@ -23,7 +23,7 @@
                 "hidden": false,
                 "name": "PowerShell ⚡",
                 "source": "Windows.Terminal.PowershellCore",
-                "backgroundImage": "C:/Users/thoma/OneDrive/Pictures/Me/Thomas Maurer Logos 2016/WindowsTerminal/Black Cloud Robot.png",
+                "backgroundImage": "C:\Stuff\Customization\WindowsTerminalSettings-master\Windows Terminal Profiles\Thomas Maurer/Black Cloud Robot.png",
                 "backgroundImageOpacity" : 0.3,
                 "colorScheme": "VibrantInk"            
             },
@@ -85,7 +85,7 @@
                 "colorScheme": "UbuntuLegit",
                 "fontFace": "Cascadia Code",
                 "acrylicOpacity": 0.8,
-                "backgroundImage": "C:/Users/thoma/OneDrive/Pictures/Me/Thomas Maurer Logos 2016/WindowsTerminal/RobotwithBackground.jpg",
+                "backgroundImage": "C:\Users\mr_sc\OneDrive\Bilder\Me\Thomas Maurer Logos 2016\WindowsTerminal\RobotwithBackground.jpg",
                 "useAcrylic": true,
                 "backgroundImageOpacity" : 0.1
             }
